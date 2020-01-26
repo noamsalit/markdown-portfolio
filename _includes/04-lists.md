@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] finish this tutorial
+- [ ] go to next tutorial
+- [ ] finish next tutorial
